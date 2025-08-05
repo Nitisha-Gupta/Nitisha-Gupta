@@ -1,5 +1,5 @@
 # 👋 Hi, I’m NITISHA GUPTA  
-A dedicated Computer Science Engineering Student. 
+### A dedicated Computer Science Engineering Student. 
 
  Passionate about creating meaningful solutions with modern technologies.  
 💡 Love solving problems and turning ideas into reality.  
